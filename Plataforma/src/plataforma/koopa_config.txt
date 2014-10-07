@@ -1,0 +1,5 @@
+ruta_commons=~/workspace/so-commons-library/Debug
+ruta_memoria=~/workspace/so-commons-library/Debug
+debug=0 /* 1=modo debug - 0 = modo normal*/
+ruta_binario=~/workspace/Plataforma/src/plataforma/koopa
+ruta_peticiones=~/workspace/Plataforma/src/plataforma/peticiones.txt

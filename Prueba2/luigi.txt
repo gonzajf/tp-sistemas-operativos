@@ -1,0 +1,8 @@
+nombre=Luigi
+simbolo=*
+planDeNiveles=[DeadLock]
+obj[DeadLock]=[M,Z]
+vidas=5
+orquestador=192.168.:6000
+miIp=192.168.
+miPuerto=9001

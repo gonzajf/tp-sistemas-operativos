@@ -1,0 +1,4 @@
+IP=192.168.
+PUERTO=6000
+quantum=1
+tiempoDeEspera=0.5

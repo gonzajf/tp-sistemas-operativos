@@ -1,0 +1,9 @@
+nombre=Luigi
+simbolo=*
+planDeNiveles=[Level2-1,Level8-8]
+obj[Level2-1]=[F,C,F,C,F,C,F,C,F]
+obj[Level8-8]=[H,E,C]
+vidas=5
+orquestador=192.168.:6000
+miIp=192.168.
+miPuerto=9004

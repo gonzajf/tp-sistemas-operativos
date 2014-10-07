@@ -1,0 +1,5 @@
+ruta_commons=/home/utnso/workspace/so-commons-library/Debug
+ruta_memoria=/home/utnso/workspace/memoria/Debug
+debug=0 /* 1=modo debug - 0 = modo normal*/
+ruta_binario=/home/utnso/workspace/tp-20131c-oiram-repus-corp/Plataforma/src/plataforma/koopa
+ruta_peticiones=/home/utnso/workspace/tp-20131c-oiram-repus-corp/Prueba1/peticiones.txt

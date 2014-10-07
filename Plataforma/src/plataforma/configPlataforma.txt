@@ -1,0 +1,4 @@
+IP=192.168.3.15
+PUERTO=6000
+quantum=3
+tiempoDeEspera=0.5

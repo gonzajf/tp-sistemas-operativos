@@ -1,0 +1,1712 @@
+[DEBUG] 14:32:14:452 DeadLock/(9751:9754): Socket servidor creado.
+[DEBUG] 14:32:14:458 DeadLock/(9751:9754): Servidor creado satisfactoriamente! IP: 192.168.3.15 - Puerto: 6001
+[DEBUG] 14:32:14:458 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:14:458 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:14:959 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:14:960 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:15:460 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:15:460 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:15:961 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:15:961 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:16:462 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:16:462 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:16:963 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:16:963 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:17:465 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:17:465 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:17:966 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:17:967 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:18:467 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:18:468 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:18:968 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:18:970 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:19:471 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:19:472 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:19:973 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:19:973 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:20:475 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:20:475 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:20:977 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:20:977 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:21:478 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:21:478 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:21:979 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:21:979 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:22:480 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:22:480 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:22:981 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:22:981 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:23:482 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:23:482 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:23:983 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:23:983 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:24:484 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:24:484 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:24:985 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:24:985 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:24:985 DeadLock/(9751:9754): Intentando aceptar una nueva conexion...
+[DEBUG] 14:32:24:986 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:24:986 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:24:986 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:24:986 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 1. Mensaje: Luigi:*.
+[DEBUG] 14:32:24:987 DeadLock/(9751:9754): Llegó un handshake.
+[DEBUG] 14:32:24:987 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:24:987 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:24:987 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:24:987 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:25:489 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:25:489 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:25:489 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:25:577 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:25:577 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:25:578 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:26:80 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:26:80 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:26:81 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:26:135 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:26:135 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:26:135 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:26:636 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:26:636 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:26:636 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:26:686 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:26:686 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:26:686 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:26:687 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:26:687 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:26:687 DeadLock/(9751:9754): Intentando aceptar una nueva conexion...
+[DEBUG] 14:32:26:688 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:26:688 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:26:688 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:26:688 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 1. Mensaje: Goomba:#.
+[DEBUG] 14:32:26:689 DeadLock/(9751:9754): Llegó un handshake.
+[DEBUG] 14:32:26:689 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:26:689 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:26:689 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:26:690 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:27:191 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:27:194 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:27:196 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:27:242 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:27:242 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:27:243 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:27:744 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:27:744 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:27:745 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:27:794 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:27:795 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:27:795 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:28:296 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:28:296 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:28:297 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:28:347 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:28:347 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:28:347 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:28:347 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Intentando aceptar una nueva conexion...
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:28:348 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 1. Mensaje: Tortuga:&.
+[DEBUG] 14:32:28:349 DeadLock/(9751:9754): Llegó un handshake.
+[DEBUG] 14:32:28:349 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:28:349 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:28:349 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:28:349 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:28:851 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:28:852 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:28:852 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:28:943 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:28:944 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:28:944 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:29:446 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:29:446 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:29:446 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:29:498 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:29:498 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:29:498 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:29:999 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:29:0 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:29:2 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:30:50 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:30:50 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:30:51 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:30:51 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:30:51 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:30:51 DeadLock/(9751:9754): Intentando aceptar una nueva conexion...
+[DEBUG] 14:32:30:51 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 1. Mensaje: Mario:@.
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Llegó un handshake.
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:30:52 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:30:53 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:30:53 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:30:554 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:30:555 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:30:555 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:30:602 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:30:602 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:30:603 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:31:104 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:31:104 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:31:104 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:31:157 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:31:157 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:31:157 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:31:658 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:31:660 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:31:660 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:31:710 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:31:711 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:31:711 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:31:711 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:31:711 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:31:711 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:32:213 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:32:213 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:32:213 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:32:317 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:32:318 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:32:318 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:32:819 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:32:819 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:32:819 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:32:869 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:32:870 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:32:870 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:33:371 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:33:371 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:33:371 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:33:419 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:33:920 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:33:921 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:33:921 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:33:971 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:33:971 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:33:972 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:34:473 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:34:474 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:34:474 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:34:526 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:34:526 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:34:527 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:35:27 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:35:27 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:35:28 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:35:78 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:35:78 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:35:78 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:35:78 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:35:79 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:35:79 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:35:580 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:35:580 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:35:580 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:35:678 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:35:678 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:35:678 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:36:179 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:36:179 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:36:180 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:36:233 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:36:233 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:36:233 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:36:735 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:36:737 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:36:737 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:36:786 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:36:787 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:36:787 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:36:787 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:36:787 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:36:787 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:37:288 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:37:288 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:37:288 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:37:340 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:37:341 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:37:341 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:37:843 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:37:844 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:37:844 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:37:897 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:37:897 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:37:897 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:38:398 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:38:399 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:38:400 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:38:452 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:38:452 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:38:452 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:38:453 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:38:453 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:38:453 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:38:955 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:38:956 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:38:956 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:38:3 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:38:3 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:38:3 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:39:505 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:39:505 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:39:507 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:39:554 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:39:554 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:39:554 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:40:56 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:40:57 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:40:58 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:40:107 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:40:107 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:40:107 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:40:107 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:40:108 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:40:108 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:40:609 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:40:609 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:40:610 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:40:658 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:40:658 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:40:658 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:41:159 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:41:160 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:41:161 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:41:210 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:41:210 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:41:210 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:41:711 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:41:711 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:41:711 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:41:763 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:41:763 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:41:763 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:41:763 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:41:764 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:41:764 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:42:265 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:42:266 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:42:267 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:42:315 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:42:316 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:42:316 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:42:818 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:42:818 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:42:819 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:42:870 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:42:870 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:42:871 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:43:372 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:43:373 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:43:373 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:43:425 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:43:425 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:43:426 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:43:426 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:43:427 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:43:427 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:43:928 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:43:929 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:43:929 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:43:978 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:43:978 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:43:978 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:44:479 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:44:479 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:44:480 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:44:532 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:44:533 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:44:533 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:45:35 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:45:35 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:45:35 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:45:86 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:45:87 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:45:87 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:45:87 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:45:87 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:45:87 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:45:588 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:45:589 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:45:589 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:45:642 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:45:642 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:45:643 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:46:144 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:46:144 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:46:145 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:46:195 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:46:195 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:46:196 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:46:697 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:46:697 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:46:697 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:46:747 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:47:249 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:47:249 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:47:251 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:47:298 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:47:298 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:47:298 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:47:799 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:47:800 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:47:800 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:47:850 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:47:851 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:47:851 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:48:352 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:48:353 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:48:353 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:48:404 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:48:405 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:48:405 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:48:405 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:48:405 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:48:405 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:48:906 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:48:907 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:48:907 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:48:958 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:48:958 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:48:958 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:49:460 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:49:460 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:49:460 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:49:511 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:49:511 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:49:511 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:50:12 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:50:12 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:50:12 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:50:61 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:50:562 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:50:563 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:50:564 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:50:609 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:50:609 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:50:609 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:51:111 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:51:111 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:51:112 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:51:163 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:51:163 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:51:163 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:51:664 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:51:665 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:51:665 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:51:712 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:51:712 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:51:712 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:51:712 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:51:713 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:51:713 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:52:215 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:52:215 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:52:216 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:52:267 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:52:267 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:52:268 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:52:769 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:52:770 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:52:771 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:52:821 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:52:821 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:52:821 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:53:323 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:53:324 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:53:324 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:53:375 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:53:375 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:53:376 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:53:376 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:53:376 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:53:376 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:53:877 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:53:878 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:53:878 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:53:928 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:53:928 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:53:928 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:54:429 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:54:430 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:54:431 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:54:478 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:54:479 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:54:479 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:54:980 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:54:981 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:54:982 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:32:55:31 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:55:32 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:55:32 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:32:55:32 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:55:32 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:55:32 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:55:533 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:55:534 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:55:534 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:55:582 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:55:582 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:55:582 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:56:83 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:56:85 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:56:86 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:56:134 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:56:134 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:56:134 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:56:636 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:56:636 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:56:637 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:32:56:686 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:56:686 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:56:687 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:32:56:687 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:56:687 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:56:687 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:57:188 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:57:189 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:57:189 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:57:238 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:57:238 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:57:239 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:32:57:739 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:57:740 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:57:740 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:32:57:870 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): El personaje * finalizó turno.
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:57:871 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:58:372 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:58:373 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:58:373 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:58:424 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:58:425 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:58:425 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:58:926 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:58:927 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:58:927 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:58:974 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:58:974 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:58:974 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:59:475 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:32:59:476 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:32:59:477 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:32:59:528 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:32:59:529 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:32:59:529 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:32:59:529 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:32:59:529 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:32:59:529 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:00:31 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:00:31 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:00:31 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:00:83 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:00:83 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:00:83 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:00:584 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:00:584 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:00:585 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:00:634 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:00:634 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:00:635 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:01:136 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:01:136 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:01:137 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:01:190 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:01:191 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:01:191 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:01:192 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:01:192 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:01:192 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:01:693 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:01:693 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:01:693 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:01:742 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:01:742 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:01:743 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:02:245 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:02:246 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:02:247 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:02:295 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:02:295 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:02:295 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:02:796 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:02:797 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:02:797 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:02:847 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:02:847 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:02:848 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:02:848 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:02:848 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:02:848 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:03:351 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:03:351 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:03:352 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:03:493 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:03:493 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:03:493 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:03:995 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:03:996 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:03:996 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:04:47 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:04:48 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:04:48 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:04:549 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:04:549 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:04:550 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:04:597 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:05:98 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:05:98 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:05:99 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:05:150 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:05:151 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:05:151 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:05:652 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:05:652 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:05:652 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:05:701 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:05:701 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:05:701 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:06:202 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:06:203 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:06:204 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:06:258 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:06:258 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:06:259 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:06:259 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:06:259 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:06:259 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:06:760 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:06:760 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:06:760 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:06:811 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:06:811 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:06:811 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:07:312 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:07:313 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:07:314 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): El personaje # finalizó turno.
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:07:445 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:07:947 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:07:947 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:07:948 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:07:2 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:07:3 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:07:3 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:08:504 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:08:505 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:08:505 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:08:558 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:08:559 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:08:560 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:09:61 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:09:61 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:09:62 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:09:109 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:09:109 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:09:109 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:09:110 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:09:110 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:09:110 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:09:611 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:09:611 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:09:611 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:09:660 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:09:660 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:09:660 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:10:163 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:10:164 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:10:164 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:10:215 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:10:215 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:10:215 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:10:717 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:10:717 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:10:717 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:10:766 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:10:766 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:10:767 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:10:767 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:10:767 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:10:767 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:11:268 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:11:269 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:11:269 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:11:322 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:11:323 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:11:323 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:11:824 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:11:825 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:11:825 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:11:958 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:33:11:959 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:33:11:959 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:11:959 DeadLock/(9751:9754): El personaje & finalizó turno.
+[DEBUG] 14:33:11:959 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:11:959 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:11:960 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:12:461 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:12:461 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:12:462 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:12:595 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:12:595 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:12:595 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:13:96 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:13:97 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:13:97 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:13:146 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:13:146 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:13:146 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:13:647 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:13:647 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:13:647 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:13:698 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:13:698 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:13:698 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:13:699 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:13:699 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:13:699 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:14:200 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:14:200 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:14:201 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:14:254 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:14:255 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:14:255 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:14:756 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:14:756 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:14:757 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:14:889 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:33:14:889 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:33:14:890 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:14:890 DeadLock/(9751:9754): El personaje @ finalizó turno.
+[DEBUG] 14:33:14:890 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:14:890 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:14:890 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:15:392 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:15:392 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:15:393 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:15:442 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:15:442 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:15:442 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:15:943 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:15:944 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:15:944 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:15:995 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:15:995 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:15:996 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:16:497 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:16:497 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:16:497 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:16:549 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:16:549 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:16:549 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:16:550 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:16:551 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:16:551 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:17:52 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:17:52 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:17:53 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:17:187 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:17:187 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:17:187 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:17:691 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:17:691 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:17:692 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:17:739 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:17:740 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:17:740 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:18:241 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:18:241 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:18:243 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:18:290 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:18:290 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:18:291 DeadLock/(9751:9754): Se movió el personaje &.
+[DEBUG] 14:33:18:291 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:18:291 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:18:291 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:18:792 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:18:793 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:18:793 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:18:851 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:18:852 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:18:852 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:19:353 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:19:353 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:19:354 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:19:402 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:19:403 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:19:403 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:19:904 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:19:904 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:19:904 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:19:954 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:19:954 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:19:954 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:19:954 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:19:955 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:19:955 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:20:456 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:20:456 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:20:456 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:20:590 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:20:590 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:20:590 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:21:91 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:21:92 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:21:92 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:21:142 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:21:143 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:21:143 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:21:643 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:21:644 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:21:644 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:21:694 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:21:694 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:21:694 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:21:694 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:21:695 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:21:695 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:22:197 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:22:197 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:22:197 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:22:248 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:22:248 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:22:249 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:22:751 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:22:751 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:22:751 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:22:802 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:22:802 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:22:802 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:23:304 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:23:305 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:23:306 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:23:355 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:23:356 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:23:356 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:23:356 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:23:357 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:23:357 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:23:859 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:23:860 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:23:860 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:33:23:993 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: H.
+[DEBUG] 14:33:23:993 DeadLock/(9751:9754): Longitud de mensaje: 1.
+[DEBUG] 14:33:23:993 DeadLock/(9751:9754): Bloqueados:
+[DEBUG] 14:33:23:993 DeadLock/(9751:9754): El personaje & finalizó turno y quedó bloqueado.
+[DEBUG] 14:33:23:994 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:23:994 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:23:994 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:24:495 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:24:495 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:24:496 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:24:547 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:24:547 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:24:547 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:25:49 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:25:49 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:25:49 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:25:98 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:25:99 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:25:99 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:25:600 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:25:601 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:25:601 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:25:651 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:25:651 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:25:651 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:25:652 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:25:652 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:25:652 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:26:153 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:26:153 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:26:153 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:26:204 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:26:204 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:26:205 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:26:706 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:26:708 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:26:708 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:26:754 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:26:754 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:26:755 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:27:256 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:27:257 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:27:257 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:27:306 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:27:307 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:27:307 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:27:307 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:27:307 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:27:307 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:27:808 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:27:809 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:27:809 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:27:862 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:27:862 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:27:862 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:28:363 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:28:364 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:28:364 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:28:414 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:28:414 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:28:414 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:28:915 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:28:915 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:28:915 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:28:966 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:28:967 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:28:967 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:28:967 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:28:967 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:28:968 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:29:469 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:29:469 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:29:469 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:29:521 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:29:521 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:29:521 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:30:22 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:30:23 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:30:23 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:30:71 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:30:71 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:30:71 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:30:573 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:30:574 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:30:574 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:30:623 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:30:623 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:30:623 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:30:623 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:30:624 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:30:624 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:31:125 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:31:126 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:31:126 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:31:179 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:31:179 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:31:179 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:31:680 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:31:680 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:31:681 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:31:730 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:31:731 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:31:731 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:32:232 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:32:232 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:32:233 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:32:283 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:32:283 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:32:283 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:32:283 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:32:283 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:32:284 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:32:785 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:32:785 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:32:785 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:32:835 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:32:836 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:32:836 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:33:337 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:33:338 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:33:339 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:33:387 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:33:387 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:33:388 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:33:889 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:33:889 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:33:889 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:33:938 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:33:938 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:33:939 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:33:939 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:33:939 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:33:939 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:34:440 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:34:440 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:34:441 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:34:490 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:34:491 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:34:491 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:34:992 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:34:992 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:34:992 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:35:43 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:35:43 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:35:43 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:35:544 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:35:545 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:35:546 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:35:595 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:35:595 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:35:596 DeadLock/(9751:9754): Se movió el personaje #.
+[DEBUG] 14:33:35:596 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:35:597 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:35:597 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:36:98 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:36:98 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:36:99 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:36:146 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:36:146 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:36:146 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:36:649 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:36:649 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:36:650 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:36:699 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:36:699 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:36:699 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:37:200 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:37:200 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:37:200 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:37:249 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:37:249 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:37:249 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:37:249 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:37:250 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:37:250 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:37:751 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:37:751 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:37:751 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:37:801 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:37:801 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:37:801 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:38:303 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:38:303 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:38:304 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:38:356 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:38:357 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:38:357 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:38:858 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:38:858 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:38:859 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:38:906 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:38:906 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:38:906 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:38:906 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:38:907 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:38:907 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:39:408 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:39:408 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:39:409 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:33:39:541 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: H.
+[DEBUG] 14:33:39:541 DeadLock/(9751:9754): Longitud de mensaje: 1.
+[DEBUG] 14:33:39:541 DeadLock/(9751:9754): Bloqueados:
+[DEBUG] 14:33:39:542 DeadLock/(9751:9754): El personaje # finalizó turno y quedó bloqueado.
+[DEBUG] 14:33:39:542 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:39:542 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:39:542 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:40:44 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:40:44 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:40:44 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:40:103 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:40:103 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:40:103 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:40:605 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:40:605 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:40:606 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:40:655 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:40:655 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:40:655 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:41:156 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:41:157 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:41:158 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:41:207 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:41:208 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:41:208 DeadLock/(9751:9754): Se movió el personaje @.
+[DEBUG] 14:33:41:208 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:41:209 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:41:209 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:41:710 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:41:710 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:41:710 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:41:761 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:41:762 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:41:762 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:42:263 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:42:264 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:42:264 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:42:310 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:42:310 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:42:310 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:42:813 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:42:814 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:42:815 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:42:862 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:42:863 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:42:863 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:42:863 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:42:863 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:42:863 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:43:365 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:43:365 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:43:365 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:33:43:499 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: M.
+[DEBUG] 14:33:43:499 DeadLock/(9751:9754): Longitud de mensaje: 1.
+[DEBUG] 14:33:43:499 DeadLock/(9751:9754): Bloqueados:
+[DEBUG] 14:33:43:499 DeadLock/(9751:9754): El personaje @ finalizó turno y quedó bloqueado.
+[DEBUG] 14:33:43:499 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:43:500 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:43:500 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:43:2 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:43:2 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:43:3 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:44:51 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:44:51 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:44:51 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:44:552 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:44:553 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:44:554 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:44:602 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:44:602 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:44:603 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:45:103 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:45:103 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:45:104 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:45:155 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:45:155 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:45:156 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:45:156 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:45:156 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:45:156 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:45:657 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:45:657 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:45:658 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:45:706 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:45:706 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:45:706 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:46:207 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:46:208 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:46:209 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:46:258 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:46:259 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:46:259 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:46:760 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:46:760 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:46:761 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:46:812 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:46:812 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:46:812 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:46:812 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:46:813 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:46:813 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:47:314 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:47:315 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:47:315 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:47:366 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:33:47:366 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:33:47:367 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:33:47:868 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:33:47:868 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:33:47:869 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: Z.
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): Longitud de mensaje: 1.
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): Bloqueados:
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): El personaje * finalizó turno y quedó bloqueado.
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:47:3 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:48:504 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:48:505 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:49:5 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:49:5 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:49:506 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:49:507 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:50:8 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:50:9 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:50:511 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:50:511 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:51:12 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:51:12 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:51:513 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:51:514 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:52:14 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:52:15 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:52:516 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:52:516 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:53:17 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:53:17 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:53:518 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:53:518 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:54:18 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:54:19 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:54:519 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:54:519 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:55:20 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:55:20 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:55:521 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:55:521 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:56:23 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:56:24 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:56:524 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:56:525 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:57:25 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:57:25 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:57:526 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:57:527 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:58:27 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:58:27 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:58:529 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:58:529 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:59:30 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:59:30 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:33:59:532 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:33:59:533 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:00:33 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:00:34 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:00:535 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:00:535 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:01:36 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:01:36 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:01:537 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:01:537 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:02:37 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:02:38 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:02:539 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:02:539 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:03:41 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:03:41 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:03:543 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:03:543 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:04:44 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:04:44 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:04:545 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:04:545 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:05:46 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:05:46 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:05:547 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:05:547 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:06:48 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:06:50 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:06:551 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:06:551 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:07:52 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:07:52 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:07:553 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:07:553 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:08:54 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:08:54 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:08:555 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:08:555 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:09:55 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:09:56 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:09:556 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:09:556 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:10:57 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:10:57 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:10:558 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:10:558 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:11:59 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:11:59 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:11:560 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:11:560 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:12:61 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:12:61 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:12:562 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:12:563 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:13:63 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:13:64 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:13:564 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:13:565 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:14:66 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:14:66 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:14:567 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:14:567 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:15:68 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:15:68 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:15:569 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:15:570 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:16:72 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:16:72 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:16:573 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:16:573 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:17:74 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:17:74 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:17:575 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:17:575 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:18:76 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:18:76 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:18:578 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:18:578 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:19:79 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:19:79 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:19:580 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:19:580 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:20:81 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:20:81 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:20:582 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:20:583 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:21:83 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:21:84 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:21:584 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:21:584 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:22:85 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:22:85 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:22:586 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:22:587 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:23:87 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:23:88 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:23:589 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:23:590 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:24:90 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:24:91 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:24:594 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:24:594 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:95 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:96 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:96 DeadLock/(9751:9754): Intentando aceptar una nueva conexion...
+[DEBUG] 14:34:25:97 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:97 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:97 DeadLock/(9751:9754): Se recibe un mensaje del socket 10.
+[ERROR] 14:34:25:97 DeadLock/(9751:9754): Desconeccion.
+[DEBUG] 14:34:25:98 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:98 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:100 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:25:100 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 1. Mensaje: Luigi:*.
+[DEBUG] 14:34:25:100 DeadLock/(9751:9754): Llegó un handshake.
+[DEBUG] 14:34:25:101 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:25:101 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:101 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:101 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:25:602 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:25:602 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:25:602 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 8. Mensaje: .
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): Finalizados:
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): El personaje @ finalizó el nivel DeadLock.
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:611 DeadLock/(9751:9754): Se recibe un mensaje del socket 16.
+[ERROR] 14:34:25:612 DeadLock/(9751:9754): Desconeccion.
+[DEBUG] 14:34:25:612 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:25:612 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:25:612 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:26:113 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:26:113 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:26:114 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:26:206 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:26:207 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:26:207 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:26:708 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:26:708 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:26:709 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:26:761 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:26:761 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:26:761 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:27:263 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:27:263 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:27:263 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:27:316 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:27:317 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:27:317 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:27:317 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:27:317 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:27:318 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:27:819 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:27:819 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:27:821 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[DEBUG] 14:34:27:831 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 8. Mensaje: .
+[DEBUG] 14:34:27:832 DeadLock/(9751:9754): Finalizados:
+[DEBUG] 14:34:27:832 DeadLock/(9751:9754): El personaje & finalizó el nivel DeadLock.
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Se recibe un mensaje del socket 14.
+[ERROR] 14:34:27:844 DeadLock/(9751:9754): Desconeccion.
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:27:844 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:28:345 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:28:346 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:28:346 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:28:399 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:28:399 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:28:399 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:28:900 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:28:901 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:28:902 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:28:951 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:28:951 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:28:951 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:29:453 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:29:453 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:29:454 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:29:505 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:29:505 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:29:505 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:29:505 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:29:506 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:29:506 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:30:8 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:30:8 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:30:8 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[DEBUG] 14:34:30:19 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 8. Mensaje: .
+[DEBUG] 14:34:30:19 DeadLock/(9751:9754): Finalizados:
+[DEBUG] 14:34:30:19 DeadLock/(9751:9754): El personaje # finalizó el nivel DeadLock.
+[DEBUG] 14:34:30:20 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:30:20 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:30:21 DeadLock/(9751:9754): Se recibe un mensaje del socket 12.
+[ERROR] 14:34:30:33 DeadLock/(9751:9754): Desconeccion.
+[DEBUG] 14:34:30:33 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:30:33 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:30:34 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:30:535 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:30:535 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:30:535 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:30:587 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:30:587 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:30:587 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:31:89 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:31:90 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:31:90 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:31:138 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:31:138 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:31:139 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:31:640 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:31:640 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:31:641 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:31:690 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:31:691 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:31:691 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:31:691 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:31:691 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:31:691 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:32:192 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:32:193 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:32:193 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:32:247 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:32:247 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:32:247 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:32:748 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:32:749 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:32:750 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:32:799 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:32:799 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:32:799 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:33:300 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:33:300 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:33:300 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:33:349 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:33:851 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:33:851 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:33:851 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:33:902 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:33:903 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:33:903 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:34:404 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:34:404 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:34:404 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:34:455 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:34:455 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:34:455 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:34:957 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:34:957 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:34:958 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:35:7 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:35:7 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:35:7 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:35:8 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:35:8 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:35:8 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:35:509 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:35:509 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:35:509 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:35:558 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:35:558 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:35:558 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:36:59 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:36:60 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:36:61 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:36:111 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:36:112 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:36:112 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:36:613 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:36:614 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:36:614 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:36:661 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:36:662 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:36:662 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:36:662 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:36:663 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:36:663 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:37:164 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:37:164 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:37:165 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:37:215 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:37:215 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:37:215 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:37:716 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:37:716 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:37:716 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:37:844 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): El personaje * finalizó turno.
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:37:845 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:38:346 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:38:349 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:38:350 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:38:478 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:38:479 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:38:479 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:38:980 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:38:980 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:38:981 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:39:31 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:39:31 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:39:31 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:39:532 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:39:533 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:39:533 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:39:583 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:39:583 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:39:584 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:39:584 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:39:584 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:39:584 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:40:86 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:40:87 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:40:87 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:40:135 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:40:135 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:40:135 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:40:636 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:40:637 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:40:638 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:40:690 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:40:690 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:40:690 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:41:191 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:41:191 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:41:191 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:41:242 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:41:243 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:41:243 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:41:243 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:41:243 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:41:244 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:41:745 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:41:745 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:41:745 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:41:793 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:41:794 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:41:794 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:42:295 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:42:295 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:42:295 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:42:347 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:42:347 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:42:347 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:42:848 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:42:849 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:42:849 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:42:898 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:42:898 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:42:899 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:42:899 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:42:899 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:42:899 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:43:400 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:43:400 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:43:401 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:43:452 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:43:452 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:43:453 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:43:955 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:43:955 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:43:956 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:44:8 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:44:8 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:44:9 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:44:510 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:44:510 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:44:511 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:44:558 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:44:559 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:44:559 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:44:559 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:44:559 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:44:559 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:45:60 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:45:61 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:45:62 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:45:110 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:45:111 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:45:111 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:45:612 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:45:612 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:45:613 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:45:662 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:45:662 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:45:662 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:46:163 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:46:164 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:46:165 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:46:214 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:46:215 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:46:215 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:46:215 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:46:215 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:46:216 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:46:717 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:46:717 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:46:718 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:46:767 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:46:767 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:46:767 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:47:268 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:47:269 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:47:269 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:47:318 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:47:318 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:47:319 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:47:819 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:47:820 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:47:820 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:47:871 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:47:871 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:47:871 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:47:872 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:47:872 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:47:872 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:48:374 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:48:374 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:48:374 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:48:421 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:48:422 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:48:422 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:48:923 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:48:923 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:48:924 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:48:974 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:48:975 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:48:975 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:49:476 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:49:476 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:49:476 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:49:525 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:49:525 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:49:525 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:49:525 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:49:526 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:49:526 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:50:27 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:50:27 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:50:28 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:50:79 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:50:79 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:50:79 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:50:580 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:50:580 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:50:581 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:50:630 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:50:631 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:50:631 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:51:132 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:51:132 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:51:132 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:51:183 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:51:183 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:51:183 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:51:183 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:51:184 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:51:184 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:51:685 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:51:685 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:51:686 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:51:737 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:51:737 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:51:737 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:52:239 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:52:239 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:52:239 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:52:289 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:52:289 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:52:289 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:52:791 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:52:791 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:52:791 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:52:838 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:52:838 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:52:838 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:52:838 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:52:839 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:52:839 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:53:340 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:53:340 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:53:341 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:53:391 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:53:391 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:53:391 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:53:892 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:53:892 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:53:894 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:53:942 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:53:942 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:53:943 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:54:444 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:54:444 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:54:444 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:54:495 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:54:495 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:54:495 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:54:496 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:54:496 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:54:496 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:54:997 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:54:997 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:54:997 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:55:47 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 6. Mensaje: .
+[DEBUG] 14:34:55:47 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:55:47 DeadLock/(9751:9754): Se movió el personaje *.
+[DEBUG] 14:34:55:548 DeadLock/(9751:9754): Enviado.
+[DEBUG] 14:34:55:548 DeadLock/(9751:9754): Tipo de Msj: 6. Mensaje: 
+[DEBUG] 14:34:55:549 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:55:681 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 7. Mensaje: .
+[DEBUG] 14:34:55:681 DeadLock/(9751:9754): Longitud de mensaje: 0.
+[DEBUG] 14:34:55:690 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:55:690 DeadLock/(9751:9754): El personaje * finalizó turno.
+[DEBUG] 14:34:55:690 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:55:690 DeadLock/(9751:9754): Verificando tipo de actividad...
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): Se recibe un mensaje del socket 18.
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): Nuevo mensaje recibido! Tipo: 8. Mensaje: .
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): Listos:
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): El personaje * finalizó el nivel DeadLock.
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): Finalizados:
+[DEBUG] 14:34:55:691 DeadLock/(9751:9754): Atendiendo clientes...
+[DEBUG] 14:34:55:692 DeadLock/(9751:9754): Verificando tipo de actividad...

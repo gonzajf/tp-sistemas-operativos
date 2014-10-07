@@ -1,0 +1,10 @@
+nombre=Hongo
+simbolo=#
+planDeNiveles=[Level8-8,Level3-1,Level2-1]
+obj[Level3-1]=[B,T,B,T,R,T]
+obj[Level2-1]=[C,F,C]
+obj[Level8-8]=[H,E,C]
+vidas=5
+orquestador=192.168.0.75:6000
+miIp=192.168.0.13
+miPuerto=9007

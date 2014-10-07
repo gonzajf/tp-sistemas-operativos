@@ -1,0 +1,11 @@
+Nombre=Nivel11
+Caja1=[Flores,F,1,10,5]
+Caja2=[Hongos,H,1,7,4]
+Caja3=[Monedas,M,4,4,2]
+orquestador=127.0.0.1:6000
+TiempoChequeoDeadlock=10
+Recovery=1
+cantidadCajas=3
+ipNivel=127.0.0.1
+puertoServidor=8001
+puertoCliente=8002

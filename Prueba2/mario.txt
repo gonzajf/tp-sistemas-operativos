@@ -1,0 +1,8 @@
+nombre=Mario
+simbolo=@
+planDeNiveles=[DeadLock]
+obj[DeadLock]=[H,M]
+vidas=5
+orquestador=192.168.:6000
+miIp=192.168.
+miPuerto=9001

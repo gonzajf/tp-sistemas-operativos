@@ -1,0 +1,10 @@
+nombre=Tortuga
+simbolo=&
+planDeNiveles=[Level8-8,Level3-1,Level2-1]
+obj[Level2-1]=[C,F,C,F,C,F,C,F,C,F]
+obj[Level3-1]=[B,T,B,R,T]
+obj[Level8-8]=[C,H,E]
+vidas=5
+orquestador=192.168.:6000
+miIp=192.168.
+miPuerto=9010

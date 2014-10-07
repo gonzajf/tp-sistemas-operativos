@@ -1,0 +1,5 @@
+ruta_commons=~/Oiram/so-commons-library/Debug
+ruta_memoria=~/Oiram/so-commons-library/Debug
+debug=0 /* 1=modo debug - 0 = modo normal*/
+ruta_binario=~/Oiram/Plataforma/src/plataforma/koopa
+ruta_peticiones=~/Oiram/Plataforma/src/plataforma/peticiones.txt

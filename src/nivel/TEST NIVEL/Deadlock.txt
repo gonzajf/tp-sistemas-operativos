@@ -1,0 +1,15 @@
+Nombre=DeadLock
+Caja1=[Hongos,H,1,10,10]
+Caja2=[Monedas,M,1,18,2]
+Caja3=[Manzanas,Z,1,2,18]
+Caja4=[Bananas,B,1,8,12]
+cantidadCajas=4
+
+
+TiempoChequeoDeadlock=60
+Recovery=1
+
+orquestador=192.168.0.79:6000
+ipNivel=192.168.0.78
+puertoServidor=8001
+puertoCliente=8002
